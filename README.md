@@ -23,7 +23,7 @@ It focuses on using SQL for data cleaning, exploratory data analysis (EDA), and 
 ## 1. Database Setup
 
 We begin by creating a new database and table to hold the sales data. The table includes details such as transaction ID, customer demographics, product category, quantity sold, price, and total sales value.
-
+'''sql
 CREATE DATABASE p1_retail_db;
 
 CREATE TABLE retail_sales
